@@ -1,2 +1,3 @@
 # Etch-a-Sketch
-Etch-a-Sketch - Project - Odin Project
+Project Etch-a-Sketch (Odin Project)
+Building a browser version of something between a sketchpad and an Etch-A-Sketch.
